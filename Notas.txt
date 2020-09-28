@@ -11,3 +11,5 @@ CLONAR (MONTAR EN UNA CARPETA NUEVA EL REPOSITORIO DE LA NUBE)
 1- Abrir PowerShell
 2- Vamos a Github y copiamos el http en CODE (en verde) 
 3- Ponemos en WPS git clone https://github.com/Luciiaarm/git1.git 
+
+Estando en la carpeta anterior a la que vamos a clonar.
