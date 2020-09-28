@@ -1,0 +1,9 @@
+alumno.T6m
+Red: Taller6 -- t6-rulfo
+
+git -- 	github -- repositorio
+ |	  |
+local	remoto 
+
+
+
