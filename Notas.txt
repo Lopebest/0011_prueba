@@ -1,0 +1,13 @@
+Primero ir a DOCUMENTOS, abrir tu carpeta para mandarla al depositorio y arrastrarla al WPS.
+Para proximos proyectos ir primero a GITHUB y crear un repositorio
+Repositorio en Visual Studio Cide:
+1- git init (SOLO 1 VEZ)
+2- git add .
+3- git commit -m "first commit" (SE LE CAMBIA EL NOMBRE CADA VEZ QUE SE HAGA UN CAMBIO)
+4- git remote add origin https://github.com/Luciiaarm/git1.git 
+5- git push -u origin master
+
+CLONAR (MONTAR EN UNA CARPETA NUEVA EL REPOSITORIO DE LA NUBE) 
+1- Abrir PowerShell
+2- Vamos a Github y copiamos el http en CODE (en verde) 
+3- Ponemos en WPS git clone https://github.com/Luciiaarm/git1.git 

@@ -1,4 +1,4 @@
-alumno.T6m
+Alumno.T6m
 Red: Taller6 -- t6-rulfo
 
 git -- 	github -- repositorio
